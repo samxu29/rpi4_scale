@@ -7,6 +7,9 @@ UNCC ECGR ECGR-5090 IoT Course Final Project
 ## Wiring Diagram
 ![](https://github.com/samxu29/rpi4_scale/blob/main/wire_dig.png)
 
+## Poster
+![](https://github.com/samxu29/rpi4_scale/blob/main/poster.png)
+
 ## Wiring Picture
 
 [RPI4 Wiring](https://github.com/samxu29/rpi4_scale/blob/main/media/RPI4.jpg)
